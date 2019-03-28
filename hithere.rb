@@ -4,5 +4,5 @@ lovee=str.downcase!
 puts "#{love}"
 puts "#{lovee}"
 
-t=str*3
+t=str*3,n zvzv, vz.
 puts " #{t}"
